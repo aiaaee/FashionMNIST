@@ -36,3 +36,7 @@ Each training and test example is assigned to one of the following labels:
 * Remaining columns are pixel numbers (784 total).
 * Each value is the darkness of the pixel (1 to 255)
 
+### Acknowledgements
+
+Original dataset was downloaded from [github](https://github.com/zalandoresearch/fashion-mnist)
+
