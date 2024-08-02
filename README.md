@@ -39,4 +39,4 @@ Each training and test example is assigned to one of the following labels:
 ### Acknowledgements
 
 Original dataset was downloaded from [github](https://github.com/zalandoresearch/fashion-mnist)
-
+Dataset was converted to CSV with this script: [](https://pjreddie.com/projects/mnist-in-csv/)
